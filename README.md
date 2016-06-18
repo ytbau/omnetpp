@@ -2,7 +2,9 @@
 Description: OMNeT++ tutorials, omnetpp
 
 Quick setup — if you’ve done this kind of thing before
+```
 https://github.com/ytbau/omnetpp.git
+```
 We recommend every repository include a README, LICENSE, and .gitignore.
 
 …or create a new repository on the command line
